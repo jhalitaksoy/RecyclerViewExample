@@ -6,8 +6,8 @@ Simple Android RecyclerView and Card Example
 
 ![ScreenShot](https://raw.githubusercontent.com/jhalitaksoy/RecyclerViewExample/master/Screenshot.png)
 
-[MainActivity](https://raw.githubusercontent.com/jhalitaksoy/RecyclerViewExample/master/app/src/main/java/hlt/recyclerviewexample/MainActivity.java)
+[MainActivity](/app/src/main/java/hlt/recyclerviewexample/MainActivity.java)
 
-[MyAdapter](https://raw.githubusercontent.com/jhalitaksoy/RecyclerViewExample/master/app/src/main/java/hlt/recyclerviewexample/MyAdapter.java)
+[MyAdapter](app/src/main/java/hlt/recyclerviewexample/MyAdapter.java)
 
 
